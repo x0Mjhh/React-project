@@ -50,6 +50,24 @@ export const dataModel = {
             desc:' Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione itaque perspiciatis quod sapiente quidem, vero consectetur quae iure error tempore reprehenderit unde veritatis fugit iusto nemo amet. Assumenda, quam facilis. ',
             photo:'https://m.media-amazon.com/images/M/MV5BMDRhMmM1ZGMtNjhlYi00ZTczLTlmMzgtNGEzZDM3ZGY4NTQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg'
         },
+        {
+            id:9,
+            title:'TETRIS',
+            desc:' Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione itaque perspiciatis quod sapiente quidem, vero consectetur quae iure error tempore reprehenderit unde veritatis fugit iusto nemo amet. Assumenda, quam facilis. ',
+            photo:'https://media0026.elcinema.com/uploads/_320x_44b0241cc7093669ee275590160b25400eb2191ec1b4e108890c874ae3d3d93a.jpg'
+        },
+        {
+            id:10,
+            title:'TEH LAST KING DOM',
+            desc:' Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione itaque perspiciatis quod sapiente quidem, vero consectetur quae iure error tempore reprehenderit unde veritatis fugit iusto nemo amet. Assumenda, quam facilis. ',
+            photo:'https://m.media-amazon.com/images/M/MV5BOTlmNGE0ZGMtMzdkMC00MjQyLWI1ZjgtZTIxODAyNWJlZDFlXkEyXkFqcGdeQXVyNTQ4ODM2NjM@._V1_.jpg'
+        },
+        {
+            id:11,
+            title:'STILL',
+            desc:' Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione itaque perspiciatis quod sapiente quidem, vero consectetur quae iure error tempore reprehenderit unde veritatis fugit iusto nemo amet. Assumenda, quam facilis. ',
+            photo:'https://www.apple.com/tv-pr/shows-and-films/s/still-a-michael-j-fox-movie/images/show-home-graphic-header/key-art-01/4x1/Apple_TV_STILL_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1686261168277'
+        },
        
     ]
 }
